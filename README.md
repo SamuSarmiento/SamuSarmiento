@@ -1,8 +1,20 @@
-# Samu Sarmiento - Software Engineer specialized in Web 3.0 dApps
+# Hi there, I'm Samu Sarmiento 👋
 
-Hello, I'm Samu Sarmiento, a software engineer with a focus on Web 3.0 decentralized applications (dApps). I specialize in developing cutting-edge decentralized solutions using technologies such as ThirdWeb and Alchemy Platform.
+I am an experienced software engineer with a passion for building and developing on Web 3.0. My expertise lies in JavaScript, TypeScript, React, Next.Js and I specialize in creating content about NoCode, developing Web 3.0 and ThirdWeb.
 
-I'm passionate about solving complex problems and building innovative software solutions that push the boundaries of what's possible.
+## 🔭 Current Work
+- I am currently working on developing decentralized applications on the Web 3.0 stack.
+- I am also exploring the possibilities of blockchain technology and how it can be used to create new and innovative solutions for the web.
+
+## 🌱 I'm interested in
+- Building decentralized applications
+- Exploring the potential of blockchain technology
+- Creating content to help others learn and understand Web 3.0
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/samu-sarmiento/)
+- [Twitter](https://twitter.com/samusarmiento_)
+- [Website](https://www.yourwebsite.com)
 
 ## Technologies I Use
 
@@ -22,13 +34,10 @@ Here are some of the technologies I'm proficient in:
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg" width="36" height="36" alt="IPFS" /></a>
 </p>
 
-## Projects
-
-Here are some of the notable projects I have worked on:
-
-- **Project 1:** A decentralized finance (DeFi) platform that allows users to lend, borrow, and trade cryptocurrencies using smart contracts on the Ethereum blockchain.
-- **Project 2:** A supply chain management system that leverages blockchain technology to track the movement of goods and ensure product authenticity.
-- **Project 3:** A healthcare data management platform that uses a decentralized architecture to ensure patient data privacy and security.
+## 🤝 Looking to collaborate?
+- Currently Open To Work!
+- I am always looking to collaborate on interesting projects related to Web 3.0.
+- If you have an idea or project in mind, please feel free to reach out to me.
 
 ## Contact Me
 
