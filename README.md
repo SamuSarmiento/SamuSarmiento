@@ -1,15 +1,15 @@
 # Hi there, I'm Samu Sarmiento 👋
 
-I am an experienced software engineer with a passion for building and developing on Web 3.0. My expertise lies in JavaScript, TypeScript, React, Next.Js and I specialize in creating content about NoCode, developing Web 3.0 and ThirdWeb.
+I am a self-thought software developer with experience in TypeScript and JavaScript. My expertise includes working with popular frameworks such as React, Next.js, and Node.js, as well as building Web 3.0 applications using ThirdWeb and Alchemy Platform. In addition to my technical skills, I have previous experience working at a cryptocurrency-focused VC firm, where I gained valuable insights into the industry and its evolving technologies.
 
 ## 🔭 Current Work
-- I am currently working on developing decentralized applications on the Web 3.0 stack.
-- I am also exploring the possibilities of blockchain technology and how it can be used to create new and innovative solutions for the web.
+- I am currently in the thirdweb ambassador team.
+- I am also exploring the possibilities of AI technology and how it can be used to create new and innovative solutions.
 
 ## 🌱 I'm interested in
-- Building decentralized applications
-- Exploring the potential of blockchain technology
-- Creating content to help others learn and understand Web 3.0
+- Creating content to help others learn and understand Web 3.0 and AI
+- Exploring the potential of AI technology
+- Create LLMs Apps
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/samu-sarmiento/)
