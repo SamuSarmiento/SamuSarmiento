@@ -3,7 +3,7 @@
 I am a self-thought software developer with experience in TypeScript and JavaScript. My expertise includes working with popular frameworks such as React, Next.js, and Node.js, as well as building Web 3.0 applications using ThirdWeb and Alchemy Platform. In addition to my technical skills, I have previous experience working at a cryptocurrency-focused VC firm, where I gained valuable insights into the industry and its evolving technologies.
 
 ## 🔭 Current Work
-- I am currently in the thirdweb ambassador team.
+- I am currently in the thirdweb ambassador team and creating content about thirdweb and Web 3.
 - I am also exploring the possibilities of AI technology and how it can be used to create new and innovative solutions.
 
 ## 🌱 I'm interested in
