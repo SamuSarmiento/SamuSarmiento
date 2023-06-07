@@ -1,10 +1,20 @@
 # Hi there, I'm Samu Sarmiento 👋
 
-I am a self-thought software developer with experience in TypeScript and JavaScript. My expertise includes working with popular frameworks such as React, Next.js, and Node.js, as well as building Web 3.0 applications using thirdweb and Alchemy Platform. In addition to my technical skills, I have previous experience working at a cryptocurrency-focused VC firm, where I gained valuable insights into the industry and its evolving technologies.
+### 🥑DevRel || software engineer playing around AI and LLMs
+
+___
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzQwwd1d8jRwASci2sD9V2Q?style=social)](https://youtube.com/thirdwebes?sub_confirmation=1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thirdweb_Es?style=social)](https://twitter.com/thirdweb_es)
+[![Twitter Follow](https://img.shields.io/twitter/follow/samusarmiento_?style=social)](https://twitter.com/samusarmiento_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/samusarmientoEN?style=social)](https://twitter.com/samusarmientoEN)
+![GitHub Followers](https://img.shields.io/github/followers/samusarmiento?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/samusarmiento?style=social)
 
 ## 🔭 Current Work
-- I am currently in the thirdweb ambassador team and creating content about thirdweb and Web 3.
-- I am also exploring the possibilities of AI technology and how it can be used to create new and innovative solutions.
+- I am currently part of the thirdweb ambassador team. I'm building the Spanish speaking community. I also create content around thirdweb on Twitter and Youtube.
+- I am exploring the possibilities of AI technology and how it can be used to create new and innovative solutions.
+- Creating a free course about Langchain in Spanish.
 
 ## 🌱 I'm interested in
 - Creating content to help others learn and understand Web 3.0 and AI
