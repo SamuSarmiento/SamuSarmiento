@@ -6,7 +6,6 @@ ___
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzQwwd1d8jRwASci2sD9V2Q?style=social)](https://youtube.com/thirdwebes?sub_confirmation=1)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thirdweb_Es?style=social)](https://twitter.com/thirdweb_es)
-[![Twitter Follow](https://img.shields.io/twitter/follow/samusarmiento_?style=social)](https://twitter.com/samusarmiento_)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samusarmientoEN?style=social)](https://twitter.com/samusarmientoEN)
 ![GitHub Followers](https://img.shields.io/github/followers/samusarmiento?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/samusarmiento?style=social)
