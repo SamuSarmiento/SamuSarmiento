@@ -14,7 +14,6 @@ ___
 - I am currently part of the thirdweb ambassador team. I'm building the Spanish speaking community. I also create content around thirdweb on Twitter and Youtube.
 - I am exploring the possibilities of AI technology and how it can be used to create new and innovative solutions.
 - Creating a free course about Langchain in Spanish.
-- Front End Dev at [Gauntlet](https://twitter.com/gauntletesport)
 
 ## 🌱 I'm interested in
 - Creating content to help others learn and understand Web 3.0 and AI
@@ -23,7 +22,7 @@ ___
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/samu-sarmiento/)
-- [Twitter](https://twitter.com/samusarmiento_)
+- [Twitter](https://twitter.com/samusarmientoEN)
 - [Website](https://samusarmiento.vercel.app/)
 
 ## Technologies I Use
