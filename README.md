@@ -1,7 +1,7 @@
 # Hi there, I'm Samu Sarmiento 👋
+=================================
 
-### 🥑DevRel || software engineer playing around AI and LLMs
-
+### 🥑DevRel || Software Engineer
 ___
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzQwwd1d8jRwASci2sD9V2Q?style=social)](https://youtube.com/thirdwebes?sub_confirmation=1)
@@ -11,14 +11,14 @@ ___
 ![GitHub Followers](https://img.shields.io/github/stars/samusarmiento?style=social)
 
 ## 🔭 Current Work
-- I am currently part of the thirdweb ambassador team. I'm building the Spanish speaking community. I also create content around thirdweb on Twitter and Youtube.
-- I am exploring the possibilities of AI technology and how it can be used to create new and innovative solutions.
-- Creating a free course about Langchain in Spanish.
+- I am currently part of the thirdweb ambassador team. I'm building the Spanish speaking community.
+- I create content, demos and templates around thirdweb on Twitter and Youtube.
+- I explore the possibilities of AI technology and how it can be used to create new and innovative solutions.
 
 ## 🌱 I'm interested in
 - Creating content to help others learn and understand Web 3.0 and AI
 - Exploring the potential of AI technology
-- Creating LLMs Apps
+- Creating Web 3 LLMs Apps
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/samu-sarmiento/)
@@ -27,8 +27,7 @@ ___
 
 ## Technologies I Use
 
-Here are some of the technologies I'm proficient in:
-
+<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
